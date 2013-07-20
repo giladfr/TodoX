@@ -1,0 +1,3 @@
+[
+	{ "caption": "TodoX: Mark as done", "command": "toggle_done" },
+]
