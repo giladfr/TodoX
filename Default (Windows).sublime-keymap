@@ -1,5 +1,5 @@
-{
+[
 	{
 			"keys": ["ctrl+alt+x"], "command": "toggle_done"
 	}
-}
+]
